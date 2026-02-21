@@ -1,0 +1,44 @@
+  236  git init
+  238  git add .
+  239  git init
+  240  git status
+  241  git init
+  242  git add README.md
+  243  git commit -m "first commit"
+  244  git branch -M main
+  245  git remote add origin git@github.com:Maria-Sem/bioinformatics.git
+  246  git remote
+  247  git remote -v
+  248  git remote  remove origin
+  249  git remote
+  250  git status
+  251  git branch
+  254  git branch
+  255  git log --oneline -5
+  263  git branch
+  264  git add genes_fixed.csv
+  265  git commit -m "task6"
+  266  git log -goa
+  267  git log --graph --oneline -a
+  314  git branch
+  315  git checkout cleaning
+  316  git checkout -b cleaning
+  317  git branch
+  318  git add discusage.file
+  319  git status
+  320  git commit -m "task7"
+  321  git branch
+  322  git checkout master
+  323  git branch
+  326  git add new_file
+  327  git commit -m "task8"
+  328  git log --oneline -1
+  329  git log --oneline -1 | cut -c1-4
+  332  git add forgotten.txt
+  333  git commit --amend --no-edit
+  334  git log --oneline -2
+  337  git branch
+  339  git add amend.txt
+  340  git commit -m "task 8.2"
+  342  history | grep git
+  343  history | grep git > report_commands.txt
