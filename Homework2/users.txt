@@ -1,0 +1,4 @@
+ 23:13:40 up  1:37,  1 user,  load average: 0.17, 0.25, 0.43
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
+maria    tty2     -                21:36    1:37m  0.04s  0.04s /usr/libexec/gnome-session-binary --session=ubuntu
+uid=1000(maria) gid=1000(maria) groups=1000(maria),4(adm),24(cdrom),27(sudo),30(dip),46(plugdev),100(users),114(lpadmin)
